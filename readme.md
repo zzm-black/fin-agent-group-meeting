@@ -3,7 +3,10 @@
 
 ## Weekly Meeting
 
-Tencent Meeting: [453-6038-6408](https://meeting.tencent.com/dm/JePRZH9jXocs)
+- Time: 20:00
+- Online: [453-6038-6408](https://meeting.tencent.com/dm/JePRZH9jXocs)
+- Onsite: Daoyuan Building 501
+
 
 ## Slides
 
