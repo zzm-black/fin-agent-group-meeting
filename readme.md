@@ -1,7 +1,7 @@
 # Fin-Agent 
 
 
-## Weekly Meeting Links
+## Weekly Meeting
 
 Tencent Meeting: [453-6038-6408](https://meeting.tencent.com/dm/JePRZH9jXocs)
 
@@ -16,9 +16,9 @@ Tencent Meeting: [453-6038-6408](https://meeting.tencent.com/dm/JePRZH9jXocs)
 
 ## Paper List
 
-[SocioDojo -- ICLR24 Spotlight](https://github.com/chengjunyan1/SocioDojo)
-[CompeteAI -- ICML24 Oral](https://github.com/microsoft/competeai)
-[Taming the Bias Zoo --2022 JF](https://cfrc.pbcsf.tsinghua.edu.cn/__local/B/29/78/0ADC4E11FA9C98548D1A4D11F47_1BE13FAB_CDA30.pdf#page=0)
+- [SocioDojo -- ICLR24 Spotlight](https://github.com/chengjunyan1/SocioDojo)
+- [CompeteAI -- ICML24 Oral](https://github.com/microsoft/competeai)
+- [Taming the Bias Zoo --2022 JF](https://cfrc.pbcsf.tsinghua.edu.cn/__local/B/29/78/0ADC4E11FA9C98548D1A4D11F47_1BE13FAB_CDA30.pdf#page=0)
 
 ## Todo List
 
