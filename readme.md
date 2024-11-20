@@ -29,3 +29,10 @@
 - [ ] 单个agent实验
 - [x] User Network 
 
+# Agent Simulating Population Smoking Rate
+
+## Slides
+
+| Date       | Link                                                         |
+| ---------- | ------------------------------------------------------------ |
+| 2024-11-20 | [Link](https://docs.google.com/presentation/d/18yvclljKvTeBrHi3gd13QDpfq7Buq7OvkX_V2w7yVW4/edit#slide=id.p) |
